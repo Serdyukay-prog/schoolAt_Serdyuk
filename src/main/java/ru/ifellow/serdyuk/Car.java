@@ -1,5 +1,4 @@
 package ru.ifellow.serdyuk;
-import java.util.List;
 
 abstract class Car {
     protected String model;

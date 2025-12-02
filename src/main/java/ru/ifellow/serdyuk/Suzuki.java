@@ -1,5 +1,5 @@
 package ru.ifellow.serdyuk;
-import java.util.List;
+
 class Suzuki extends Car {
     private boolean isFourWheelDrive;
 

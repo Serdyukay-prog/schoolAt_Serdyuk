@@ -1,5 +1,4 @@
 package ru.ifellow.serdyuk;
-import java.util.List;
 
 class Toyota extends Car {
     private boolean hasHybridSystem;
